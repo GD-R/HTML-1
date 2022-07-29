@@ -13,5 +13,5 @@
 
 ### Time required to build: 5h
 
-### Demo - [Link]("https://gd-project-1.netlify.app/")
+### Demo - [Link](https://gd-project-1.netlify.app/)
 
